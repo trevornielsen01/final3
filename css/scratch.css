@@ -1,0 +1,50 @@
+.body{
+    background-color: black;
+    color: white;
+    font-family: 'comic Sans MS', Georgia, 'Times New Roman';
+   
+}
+
+img{
+    border: 2px solid black;
+    padding: 2px;
+    width:100%;
+}
+
+.centerme{
+    display: block;
+    margin: auto;
+  
+}
+
+h1{
+    text-align: center;
+}
+
+ol{
+    background-color: rgba(0, 0, 0, 0.612);
+}
+.common{
+    position: absolute;
+}
+
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.395);
+    color: azure;
+}
+
+.header{
+    top: 0px;
+
+}
+
+.mainbody{
+    top: 400px;
+}
